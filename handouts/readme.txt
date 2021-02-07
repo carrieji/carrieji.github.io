@@ -1,1 +1,3 @@
-this folder is for handouts
+This folder is for storing handouts.
+
+Link format:  carrieji.github.io/handouts/..........(file name)
