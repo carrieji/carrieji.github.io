@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+I currently work at Cal Poly Pomona and Pasadena City College while pursuing my MBA Degree. I have 9 years of experience in professional office environments including 4 years of direct administrative work. I am familiar with general college/university procedures, policies, and services, and have experience in working with students and handling student inquiries and requests. I would like to work in education fields to serve students. 
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+
+
