@@ -13,3 +13,16 @@ sidebar_link: true
   </tr>
 </thead>
 </table>
+
+### Work Experience
+
+- Cal Poly Pomona, CA, Student Assistant | 2021.1 – Present	
+- Pasadena City College, CA, Professional Expert | 2020.9 – 2021.7
+- Shui On Group (HKG: 0272), China, Leasing Deputy Manager | 2011 - 2019
+
+### EDUCATION
+
+- MBA, Cal Poly Pomona, CA (Expected graduation 06/2022) 
+- BA Degree in Advertising, Jinan University (JNU), China
+- BA Degree in Finance, Jinan University (JNU), China
+
