@@ -5,7 +5,7 @@ title: Animation
 
 ### 📽️ Animation Videos for Learning English
 
-Magic Trick Makes Money
+- **Magic Trick Makes Money**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oAKzZYr-KIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
