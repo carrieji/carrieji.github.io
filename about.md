@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-<table>
+<table style="width:100%">
 <thead>
   <tr>
     <td><img src="assets/images/carrie_image.jpg" alt="Carrie" width="640px"></td>
