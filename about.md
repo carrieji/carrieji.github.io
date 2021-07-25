@@ -16,9 +16,9 @@ sidebar_link: true
 
 ### Work Experience
 
-- Cal Poly Pomona, CA, Student Assistant | 2021.1 – Present
-- Pasadena City College, CA, Professional Expert | 2020.9 – 2021.7
-- Shui On Group (HKG: 0272), China, Leasing Deputy Manager | 2011 - 2019
+- Cal Poly Pomona, CA, Student Assistant (2021.1 – Present)
+- Pasadena City College, CA, Professional Expert (2020.9 – 2021.7)
+- Shui On Group (HKG: 0272), China, Leasing Deputy Manager (2011 - 2019)
 
 ### EDUCATION
 
