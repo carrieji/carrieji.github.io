@@ -23,4 +23,4 @@ Most people are using web dictionaries to check English pronunciation. However, 
 
 When we learn English pronunciation, it is important to get feedback. However, English teachers or friends are not always available to give us feedback. I have a better choice for you! Google Pronounce! In this video, I will show you how to use Google Pronounce to get feedback for your pronunciation!
 
-<a href="https://youtu.be/MXbVGYyHrEQ" target="_blank"><img src="/assets/images/thumbnail/google_pronounce_thumbnail.jpg.jpg" alt="Google Pronounce - Super Cool Tool for English Pronunciation Feedback"></a>
+<a href="https://youtu.be/MXbVGYyHrEQ" target="_blank"><img src="/assets/images/thumbnail/google_pronounce_thumbnail.jpg" alt="Google Pronounce - Super Cool Tool for English Pronunciation Feedback"></a>
