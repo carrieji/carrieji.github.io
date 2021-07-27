@@ -10,6 +10,5 @@ Hi everyone! Here I share my experiences and tips for learning TOEFL, English, B
 - YouTube: 📺 <a href="https://www.youtube.com/carrieji" target="_blank">https://www.youtube.com/carrieji</a>
 
 ### Contact Me!
-- Email: 📧 carriejiying@yahoo.com
 - Facebook: 📟 <a href="https://www.facebook.com/ying.ji.902604" target="_blank">https://www.facebook.com/ying.ji.902604</a>
 - Instagram 📷 <a href="https://www.instagram.com/carrieyoshi" target="_blank">https://www.instagram.com/carrieyoshi</a>
