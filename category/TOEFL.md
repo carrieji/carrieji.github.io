@@ -31,3 +31,11 @@ My easy speaking templates according to different types of questions is in the v
 
 <a href="https://youtu.be/YnGauEuDRDQ" target="_blank"><img src="/assets/images/thumbnail/toefl_speaking_template_thumbnail.jpg" alt="TOEFL Speaking Template - How to Use It"></a>
 
+
+### TOEFL Writing: The Strategy People Never Told You
+
+There is one TOEFL strategy people never knew to improve their TOEFL writing, and this one TOEFL strategy no one taught you before.
+
+<a href="https://youtu.be/s7AOfnthLMM" target="_blank"><img src="/assets/images/thumbnail/toefl_writing_speed_thumbnail.jpg" alt="TOEFL Writing: The Strategy People Never Told You"></a>
+
+
