@@ -3,7 +3,7 @@ layout: category
 title: Resources
 ---
 
-### 📃 TOEFL Templates
+## 📃 TOEFL Templates
 
 These are my TOEFL templates for writing, speaking, and reading.
 
