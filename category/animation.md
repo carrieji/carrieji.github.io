@@ -19,3 +19,9 @@ Under the weather means feeling sick or unwell. In the old days, sailors on the 
 during bad weathers like storm.
 
 <a href="https://youtu.be/F0N8-UQj7Z4" target="_blank"><img src="/assets/images/thumbnail/under_the_weather_thumbnail.jpg" alt="How to Get Under the Weather"></a>
+
+### Why People Knock on Wood
+
+Knock on wood means to express a hope for one's good luck to continue or avoid bad luck.
+
+<a href="https://youtu.be/EAuHBhDMxnk" target="_blank"><img src="/assets/images/thumbnail/knock_on_wood_thumbnail.jpg" alt="Why People Knock on Wood"></a>
