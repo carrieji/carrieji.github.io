@@ -5,7 +5,7 @@ title: Resources
 
 ## 📃 TOEFL Templates
 
-These are my TOEFL templates for writing, speaking, and reading.
+These are my TOEFL templates for writing, speaking, and reading. Check out and download them!
 
 - [TOEFL Independent Writing Template](/handouts/CarrieJi_TOEFL_Independent_Writing_Template..pdf)
 - [TOEFL Integrated Writing Template](/handouts/CarrieJi_TOEFL_Integrated_Writing_Template.pdf)
