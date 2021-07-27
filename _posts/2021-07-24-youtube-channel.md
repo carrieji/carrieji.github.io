@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carrie's YouTube Channel
+title: YouTube Channel
 excerpt_separator:  <!--more-->
 ---
 
