@@ -6,7 +6,7 @@ excerpt_separator:  <!--more-->
 
 Hi everyone! Here I share my experiences and tips for learning TOEFL, English, Business, and Management! I got a score of 100 at my first time of taking TOEFL. I'm dedicated to provide simply tips and free resources to help people learn easily! Let’s work together to help students and children learn easily！
 
-### Check out my channel!
+### Check Out My Channel!
 - YouTube: 📺 <a href="https://www.youtube.com/carrieji" target="_blank">https://www.youtube.com/carrieji</a>
 
 ### Contact Me!
