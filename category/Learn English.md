@@ -11,3 +11,10 @@ A subscriber left me a comment asking if I could speak slower. I often hesitated
 
 <a href="https://youtu.be/Vf2TUf4o_Vc" target="_blank"><img src="/assets/images/thumbnail/englih_listening_tip_listen_fast.jpg" alt="Top Secret of Improving English & TOEFL Listening"></a>
 
+
+### The Secret to Perfect English Pronunciation
+
+Most people are using web dictionaries to check English pronunciation. However, some of their pronunciation are wrong! It's difficult to perfect our speaking in that way. In this video, I'll show one simple tip for learning speaking and pronunciation. 
+
+<a href="https://youtu.be/QAgaFZDLg58" target="_blank"><img src="/assets/images/thumbnail/youglish_thumbnail.jpg" alt="The Secret to Perfect English Pronunciation"></a>
+
